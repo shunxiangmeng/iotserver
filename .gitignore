@@ -1,1 +1,3 @@
 ﻿/.vscode
+*.out
+*.db
